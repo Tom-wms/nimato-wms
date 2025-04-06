@@ -1,1 +1,0 @@
-console.log('Nimato WMS loaded');
